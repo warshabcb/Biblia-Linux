@@ -1,7 +1,9 @@
 
- 
-        Biblia de Comandos Linux 
- 
+**Cambiar Zona Horario servidor**
 
- ***Cambiar Zona Horario servidor***
->dpkg-reconfigure tzdata
+    dpkg-reconfigure tzdata
+
+**Agregar Usuario a Sudo**
+
+    sudo visudo   
+
