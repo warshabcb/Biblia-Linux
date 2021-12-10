@@ -1,4 +1,7 @@
-* Biblia de Comandos Linux
 
-** Cambiar Zona Horario servidor
-    -- dpkg-reconfigure tzdata
+ 
+        Biblia de Comandos Linux 
+ 
+
+ ***Cambiar Zona Horario servidor***
+>dpkg-reconfigure tzdata
